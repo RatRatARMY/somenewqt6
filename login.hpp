@@ -26,6 +26,9 @@ public:
 
 private:
     Ui::LoginWND *ui;
+    int num_of_failed_login_attempts_left = 8;
+    void login();
+    void go_to_register();
 };
 
 

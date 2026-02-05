@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="backgrounds">
+    <file>sdl3game1_desc.png</file>
+    <file>sdl3game3_desc.png</file>
+    <file>sdl3game4_desc.png</file>
+  </qresource>
+  <qresource prefix="images">
+    <file>Obsidian.webp</file>
+    <file>Grass.webp</file>
+    <file>Beacon.webp</file>
+    <file>Bamboo_Mosaic.png</file>
+    <file>bacon.png</file>
+  </qresource>
+  <qresource prefix="playBtn">
+    <file>play.png</file>
+  </qresource>
+</RCC>

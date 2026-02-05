@@ -23,9 +23,9 @@
       <property name="geometry">
        <rect>
         <x>0</x>
-        <y>0</y>
-        <width>1354</width>
-        <height>756</height>
+        <y>-353</y>
+        <width>1772</width>
+        <height>1088</height>
        </rect>
       </property>
       <layout class="QVBoxLayout" name="verticalLayout_3">
@@ -83,6 +83,9 @@
            <property name="text">
             <string/>
            </property>
+           <property name="pixmap">
+            <pixmap resource="assets/qt6/qt6_assets.qrc">:/images/bacon.png</pixmap>
+           </property>
           </widget>
          </item>
          <item row="0" column="3">
@@ -90,12 +93,18 @@
            <property name="text">
             <string/>
            </property>
+           <property name="pixmap">
+            <pixmap resource="assets/qt6/qt6_assets.qrc">:/images/Grass.webp</pixmap>
+           </property>
           </widget>
          </item>
          <item row="0" column="1">
           <widget class="QLabel" name="label_5">
            <property name="text">
             <string/>
+           </property>
+           <property name="pixmap">
+            <pixmap resource="assets/qt6/qt6_assets.qrc">:/images/Bamboo_Mosaic.png</pixmap>
            </property>
           </widget>
          </item>
@@ -111,12 +120,18 @@
            <property name="text">
             <string/>
            </property>
+           <property name="pixmap">
+            <pixmap resource="assets/qt6/qt6_assets.qrc">:/images/Beacon.webp</pixmap>
+           </property>
           </widget>
          </item>
          <item row="0" column="4">
           <widget class="QLabel" name="label_11">
            <property name="text">
             <string/>
+           </property>
+           <property name="pixmap">
+            <pixmap resource="assets/qt6/qt6_assets.qrc">:/images/Obsidian.webp</pixmap>
            </property>
           </widget>
          </item>
@@ -149,6 +164,9 @@
            <property name="text">
             <string/>
            </property>
+           <property name="pixmap">
+            <pixmap resource="assets/qt6/qt6_assets.qrc">:/images/Bamboo_Mosaic.png</pixmap>
+           </property>
           </widget>
          </item>
          <item row="0" column="0">
@@ -156,12 +174,18 @@
            <property name="text">
             <string/>
            </property>
+           <property name="pixmap">
+            <pixmap resource="assets/qt6/qt6_assets.qrc">:/backgrounds/sdl3game1_desc.png</pixmap>
+           </property>
           </widget>
          </item>
          <item row="0" column="2">
           <widget class="QLabel" name="label_16">
            <property name="text">
             <string/>
+           </property>
+           <property name="pixmap">
+            <pixmap resource="assets/qt6/qt6_assets.qrc">:/backgrounds/sdl3game3_desc.png</pixmap>
            </property>
           </widget>
          </item>
@@ -191,6 +215,9 @@
            <property name="text">
             <string/>
            </property>
+           <property name="pixmap">
+            <pixmap resource="assets/qt6/qt6_assets.qrc">:/backgrounds/sdl3game4_desc.png</pixmap>
+           </property>
           </widget>
          </item>
          <item row="1" column="3">
@@ -208,6 +235,8 @@
    </item>
   </layout>
  </widget>
- <resources/>
+ <resources>
+  <include location="assets/qt6/qt6_assets.qrc"/>
+ </resources>
  <connections/>
 </ui>

@@ -43,6 +43,7 @@ add_executable(somenewqt6 main.cpp
         sdl3game4_desc.cpp
         sdl3game4_desc.hpp
         sdl3game4_desc.ui
+        assets/qt6/qt6_assets.qrc
 )
 add_library(games SHARED
         sdl3game1.cpp

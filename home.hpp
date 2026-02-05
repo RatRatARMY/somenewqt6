@@ -26,6 +26,10 @@ public:
 
 private:
     Ui::HomeWND *ui;
+    void go_to_sdlgame1_desc();
+    void go_to_sdlgame2_desc();
+    void go_to_sdlgame3_desc();
+    void go_to_sdlgame4_desc();
 };
 
 
