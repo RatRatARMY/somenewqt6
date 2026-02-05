@@ -1,0 +1,8 @@
+//
+// Created by ratratarmy on 05/02/2026.
+//
+
+#ifndef SOMENEWQT6_SDL3GAME1_HPP
+#define SOMENEWQT6_SDL3GAME1_HPP
+
+#endif //SOMENEWQT6_SDL3GAME1_HPP
